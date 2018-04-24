@@ -26,10 +26,10 @@ L'application permet aux users de s'incrir à un seul cours et les cours pourron
 
 ## Quelques commandes :
 
-```rails db:create``` créé un BDD
-```rails db:migrate``` mettre à jour les migrations
-```rails db:seed``` agrandir la BDD
-Ne pas oublier de ```bundle install``` dans le dossier
+```rails db:create``` créé un BDD <br/>
+```rails db:migrate``` mettre à jour les migrations <br/>
+```rails db:seed``` agrandir la BDD <br/>
+Ne pas oublier de ```bundle install``` dans le dossier <br/>
 
 <br/> 
 
